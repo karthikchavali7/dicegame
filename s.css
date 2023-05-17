@@ -1,0 +1,28 @@
+.container{
+    
+    
+   width:70%;
+  margin:auto;
+
+    text-align: center;
+}
+.dice{
+    display:inline-block;
+    text-align:center;
+    margin:20px;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-color:#643843;
+}
+.btn{
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #FFB84C;
+    border-radius: 0cqmax;
+    shape-margin: 0cm;
+    box-shadow: #FFB84C;
+}
